@@ -1,4 +1,4 @@
 # Shift_Table_script_Demo
 A shift_table_script created by python.   
-intended to help me make the whole Month shift_table by one click.   
+It allows me to generate the entire month's shift table with just one click.   
 powered by Photoshop. （￣︶￣）↗　  
